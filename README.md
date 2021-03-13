@@ -14,12 +14,12 @@ PyChat is a Python based application using File handling to Exchange Messages be
 ## Screen Shot
 ### Main Menu
 Showing About and Help of program directing to login and start chatting.
-![Main Menu](/screenshot/IMG_20210312_123705.jpg)
+![Main Menu](/screenshot/IMG_20210312_123705.jpg?raw=true)
 
 ### Login
 Show Login prompt and an option to quit program.
 ![Login Prompt](https://github.com/devesh7272/PyChat/blob/main/screenshot/IMG_20210312_123812.jpg?raw=true)
----
+
 ### Send Message
 Sending Message including emojis and other known Encoding.<br>
 **Manually Press Enter to refresh Message.** _Need Help in fixing this. Kindly help me._
