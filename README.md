@@ -23,3 +23,16 @@ Show Login prompt and an option to quit program.
 ### Send Message
 Sending Message including emojis and other known Encoding.<br>
 **Manually Press Enter to refresh Message.** _Need Help in fixing this. Kindly help me._
+![Sending Messages](https://github.com/devesh7272/PyChat/blob/main/screenshot/IMG_20210312_123355.jpg?raw=true)
+
+### Logout
+Enter **logout** in message box to logout from chat.
+![Logout Prompt](https://github.com/devesh7272/PyChat/blob/main/screenshot/IMG_20210312_123422.jpg?raw=true)
+
+### Setting Username
+Set username during login
+![Setting Username](https://github.com/devesh7272/PyChat/blob/main/screenshot/IMG_20210312_123533.jpg?raw=true)
+
+### Exiting the Program
+To exit the program, enter **q or Q** in message box and press enter and you are out from PyChat successfully.
+![Exiting the program](https://github.com/devesh7272/PyChat/blob/main/screenshot/IMG_20210312_123458.jpg?raw=true)
