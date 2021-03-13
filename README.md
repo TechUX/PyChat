@@ -49,3 +49,5 @@ Thank you
 |Twitter | [@deveshsingh75](https://twitter.com/deveshsingh75)|
 
 ## Thank you
+Buy me coffee
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y028S3X)
